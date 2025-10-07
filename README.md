@@ -1,6 +1,5 @@
 ☕ Coffee Shop EDA
-      
-      Exploratory Data Analysis (EDA) on a coffee shop dataset to uncover business insights, sales trends, and customer behavior.
+    Exploratory Data Analysis (EDA) on a coffee shop dataset to uncover business insights, sales trends, and customer behavior.
 
 📊 Project Overview
     Analyzed daily sales and product performance to identify revenue drivers.
